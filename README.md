@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 
 ### Connect with me:
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/bukotsunikki)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40_KshitijSingh)](https://x.com/_KshitijSingh?t=vwHTkf456Fqt2CDR0DSE4A&s=08)
 <!--
 **mekshitijsingh/mekshitijsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
