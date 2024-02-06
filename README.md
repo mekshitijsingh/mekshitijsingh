@@ -1,9 +1,12 @@
-### Hi there 👋
+# Hi there 👋, I am Kshitij Singh
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________
--🔭 I’m currently pusuing Btech in Computer Science from SRM University, AP.\
--💻 My projects: https://github.com/mekshitijsingh?tab=repositories \
--📧 How to reach me: singh.ksh007@gmail.com\
+- 🔭 I’m currently pusuing Btech in Computer Science from SRM University, AP.\
+- 💻 My projects: https://github.com/mekshitijsingh?tab=repositories \
+- 📧 How to reach me: singh.ksh007@gmail.com\
 
+
+### Connect with me:
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/bukotsunikki)
 <!--
 **mekshitijsingh/mekshitijsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
