@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m currently pusuing Btech in Computer Science from SRM University, AP.
+📫 How to reach me: singh.ksh007@gmail.com
+
 <!--
 **mekshitijsingh/mekshitijsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
